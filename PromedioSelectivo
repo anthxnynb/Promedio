@@ -1,0 +1,11 @@
+Algoritmo PromedioNOtas()
+ Definir nota1, nota2, nota3, promedio como real 
+ Escribir ¨Ingresar nota 1: ¨
+ Leer nota1
+ Escribir ¨Ingresar nota 2: ¨
+ Leer nota2
+ Escribir ¨Ingresar nota 3: ¨
+ Leer nota3
+ promedio <- (nota1 + nota2 + nota3)/3
+ Escribir  ¨Su promedio es: ¨, promedio
+FinAlgoritmo
